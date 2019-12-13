@@ -19,7 +19,7 @@
 #include <pcl/common/common_headers.h>
 #include <pcl/visualization/pcl_visualizer.h>
 
-
+//main
 int 
 main (int argc, char** argv)
 {
